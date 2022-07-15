@@ -1,0 +1,12 @@
+﻿@model Pizza
+
+<div class="container d-flex">
+    <div class="flex-grow-1">
+        <img class="img-fluid" src=@Model.ImageUrl />
+    </div>
+    <div class="flex-grow-2 ps-5">
+        <h2>@Model.Name</h2>
+        <p>@Model.Description</p>
+        <p>@Model.Price</p>
+    </div>
+</div>

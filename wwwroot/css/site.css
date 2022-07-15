@@ -30,7 +30,6 @@ body {
     border-radius: 20px;
     min-height: 450px;
     box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
-    background-image: url("https://d15j9y5wlusr11.cloudfront.net/filer_public_thumbnails/filer_public/cc/7c/cc7c286c-5cb0-4c80-8e12-fc9d47f9e94f/ricetta.png__600x600_q85_ALIAS-large_crop-smart_subsampling-2.jpg");
     background-size: cover;
 }
 
