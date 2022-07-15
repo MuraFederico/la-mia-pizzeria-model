@@ -20,5 +20,7 @@ namespace la_mia_pizzeria_static.Models
 
         [Required]
         public string ImageUrl { get; set; }
+
+        public List<Ingredient> Ingredients { get; set; }
     }
 }
